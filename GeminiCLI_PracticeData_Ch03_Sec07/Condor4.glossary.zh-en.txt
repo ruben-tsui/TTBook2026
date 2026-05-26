@@ -1,0 +1,162 @@
+# Bilingual Glossary — Condor Heroes Chapter 4
+# Source: Condor4.multialign.n9.openai-text-embedding-harrier-oss-v1-0.6b.zh-en.txt
+# Format: Chinese term [TAB] English term
+# Categories: Personal Names | Group/Faction Names | Place Names | Titles/Epithets | Martial Arts Techniques | Weapons & Objects
+#================================================================================
+
+## PERSONAL NAMES — CHINESE CHARACTERS
+
+完顏洪熙	Wanyan Hongxi
+完顏洪烈	Wanyan Honglie
+王罕	Ong Khan
+鐵木真	Temujin
+札木合	Jamuka
+桑昆	Senggum
+木華黎	Muqali
+博爾朮	Bogurchi
+博爾忽	Boroqul
+赤老溫	Tchila'un
+哲別	Jebe
+者勒米	Jelme
+拖雷	Tolui
+郭靖	Guo Jing
+都史	Tusakha
+窩闊台	Ogedai
+李萍	Lily Li
+郭嘯天	Skyfury Guo
+楊鐵心	Ironheart Yang
+包惜弱	Charity Bao
+楊康	Yang Kang
+段天德	Justice Duan
+丘處機	Qiu Chuji
+陳玄風	Hurricane Chen
+梅超風	Cyclone Mei
+黃藥師	Lord of Peach Blossom Island
+
+## PERSONAL NAMES — SEVEN FREAKS OF THE SOUTH
+
+柯鎮惡	Ke Zhen'e
+朱聰	Zhu Cong
+韓寶駒	Ryder Han
+韓小瑩	Jade Han
+全金發	Gilden Quan
+南希仁	Nan the Merciful / Woodcutter Nan
+張阿生	Zhang Asheng / Laughing Buddha Zhang Asheng
+
+## EPITHETS / SOBRIQUETS
+
+妙手書生	Zhu Cong (Scholar with Nimble Hands)
+笑彌陀	Laughing Buddha
+鬧市俠隱	Gilden Quan (Hero Hidden in the Marketplace)
+南山樵子	Woodcutter Nan
+飛天神龍	Flying Divine Dragon
+飛天蝙蝠	Flying Bat
+柯辟邪	Ke Bixie the Talisman
+銅屍	Copper Corpse
+鐵屍	Iron Corpse
+黑風雙煞	Twice Foul Dark Wind / Black Wind Dual Fiends
+
+## GROUP / FACTION NAMES
+
+江南七怪	Seven Freaks of the South
+四傑	Four Great Generals
+全真教	Quanzhen Sect
+桃花島	Peach Blossom Island
+黑風雙煞	Twice Foul Dark Wind
+
+## PLACE NAMES
+
+中都	Zhongdu (Jin capital)
+大漠	the great steppe / the desert
+漠北	northern steppe / Mongolia
+嘉興	Jiaxing
+嘉興醉仙樓	Garden of the Eight Drunken Immortals, Jiaxing
+桃花島	Peach Blossom Island
+東海	Eastern Sea
+浙江	Zhejiang
+寧波	Ningbo
+橫島	Hengdao Island
+長城	the Great Wall
+
+## TITLES & RANKS
+
+大汗	Great Khan
+汗	Khan
+王子	Prince
+殿下	Your Excellency / His Excellency
+十夫長	squad leader
+百夫長	commander (of a hundred men)
+豹夫	leopard keeper / keeper of hunting leopards
+義父	adoptive father
+義子	adopted son
+義兄	adoptive / sworn elder brother
+義兒	adopted son
+安答	anda (sworn blood brother)
+牛鼻子	old monk (derogatory, referring to Qiu Chuji)
+臭道士	stinking Taoist
+道長	Taoist master
+師父	shifu / martial arts master
+師兄妹	fellow disciples (male senior / female junior)
+島主	island lord / master of the island
+江湖	jianghu (the martial arts world)
+武林	wulin (the martial arts community)
+
+## MARTIAL ARTS TECHNIQUES & MOVES
+
+九陰白骨爪	Nine Yin Skeleton Claw
+摧心掌	Heartbreaker Palm
+九陰真經	Nine Yin Manual / Nine Yin Scripture
+空手入白刃	seizing a blade with bare hands
+電照長空	Lightning Ignites the Sky
+白露橫江	Mist Hangs Over the River
+鳳點頭	Nodding Phoenix
+順水推舟	Drive the Boat Downstream
+懶驢打滾	Lazy Donkey Roll
+烏龍取水	Black Dragon Fetches Water
+地堂鞭法	Rolling Whip (ground-level whip technique)
+鐵板橋	Iron Bridge
+越女劍法	Yue Maiden Sword technique
+靈貓撲鼠	Mischievous Cat Catches the Mouse
+輕功	qinggong (lightness kung fu)
+內功	neigong (inner strength / internal energy)
+橫練功夫	iron-body conditioning kung fu
+練門	vital weak point (on an iron-body practitioner)
+擒拿手	grappling technique
+吐納功夫	breathing / qi-regulation exercise
+點穴	striking vital acupoints
+百會	Hundred Convergences (acupoint, crown of head)
+廉泉	Ridge Spring (acupoint, throat)
+神闕	Spirit Gate (acupoint, abdomen/navel)
+中樞	Central Pivot (acupoint, mid-back)
+曲池穴	Arching Pool (acupoint, inside elbow)
+天靈蓋	crown of the head
+
+## WEAPONS & SPECIAL OBJECTS
+
+金龍鞭	Golden Dragon whip
+軟鞭	soft whip
+透骨錐	bone-piercing awl
+袖箭	sleeve arrow (concealed arrow)
+點穴鐵扇	iron fan for striking acupoints
+扁擔	shoulder pole
+屠牛尖刀	butcher's knife / ox-slaughtering blade
+毒菱	poisoned devilnut (throwing weapon)
+匕首	dagger
+鐵杖	iron staff
+秤錘	weight (used as throwing weapon)
+蟒蛇鞭	Python whip
+
+## CULTURAL & NARRATIVE TERMS
+
+武師	martial arts master
+好漢	hero / man of valour
+英雄	hero
+義結金蘭	sworn siblings (oath of brotherhood/sisterhood)
+喝血酒	drink blood wine (sworn oath)
+江湖	jianghu
+走火入魔	to go berserk from wrong practice of kung fu
+上乘武學	advanced / superior martial arts
+下乘武學	lesser martial arts
+內功心法	method for cultivating inner strength
+比武	martial arts contest / duel
+安答	anda (Mongol sworn-brotherhood bond)
